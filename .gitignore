@@ -2,4 +2,5 @@ bin/
 lib/
 .classpath
 .settings
+.project
 wordsforproblem.txt
